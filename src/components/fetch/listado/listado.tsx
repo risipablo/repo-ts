@@ -18,8 +18,13 @@ interface Productos {
   description: string;
 }
 
+interface ListadoProductosProps {
+  filtroCategoria: string;
+}
 
-export const ListadoProductos: React.FC = () => {
+
+
+export const ListadoProductos:React.FC<ListadoProductosProps>  = () => {
   const [products, setProducts] = useState<Productos[]>([]);
   const [loading, setLoading] = useState<boolean>(true);
   const [error, setError] = useState<string | null>(null);

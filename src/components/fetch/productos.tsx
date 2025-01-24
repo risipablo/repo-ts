@@ -8,10 +8,8 @@ export function Productos(){
 
     return(
         <>
-
         <ListadoProductos filtroCategoria=""
         />
-
 
         </>
     )
