@@ -1,0 +1,61 @@
+[
+    {
+      "id": 1,
+      "title": "Camiseta del Chelsea",
+      "category":"futbol",
+      "price": 20.99,
+      "description": "Camiseta de algodón 100%"
+  
+    },
+    {
+      "id": 2,
+      "title": "Antiparas",
+      "category":"natacion",
+      "price": 45.99,
+      "description": "Pantalón de mezclilla"
+    },
+    {
+        "id": 3,
+        "title": "Antiparas speedo",
+        "category": "natacion",
+        "price": 90.99,
+        "description": "Antiparas para aguas abiertas"
+    
+      },
+      {
+        "id": 4,
+        "title": "Botines total 90",
+        "category":"futbol",
+        "price": 105.99,
+        "description": "Botines edicion especial"
+      },    {
+        "id": 5,
+        "title": "Raqueta Wilson",
+        "category":"tenis",
+        "price": 27.99,
+        "description": "Raqueta de la serie de Roger Federer"
+    
+      },
+      {
+        "id": 6,
+        "title": "Remera Golden State",
+        "category":"basket",
+        "price": 125.99,
+        "description": "Remera de los warrios "
+      },    {
+        "id": 7,
+        "title": "musculosa del Barcelona",
+        "category":"futbol",
+        "price": 50.99,
+        "description": "Musculosa de algodón 100%"
+    
+      },
+      {
+        "id": 8,
+        "title": "Malla de hombre",
+        "category":"Natacion",
+        "price": 35.99,
+        "description": "Malla speed"
+      }
+  ]
+  
